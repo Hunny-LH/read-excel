@@ -1,0 +1,13 @@
+{
+  "name": "read-execl",
+  "version": "1.0.0",
+  "description": "conver Excel to SQL",
+  "bin": {
+    "read-execl": "./bin/read-execl.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
